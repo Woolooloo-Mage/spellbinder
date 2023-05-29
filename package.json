@@ -9,7 +9,7 @@ Package.json
   },
   "keywords": [],
   "author": "",
-  "license": "CCC",
+  "license": "-No.",
   "dependencies": {
     "@types/node": "^18.0.6",
     "discord.js": "^14.11.0",
