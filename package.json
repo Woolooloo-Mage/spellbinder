@@ -1,5 +1,5 @@
 Package.json
-{ "name": "nodejs",
+{ "name": "spellbinder",
   "version": "1.0.0",
   "description": "",
   "main": "source/index.js",
@@ -9,7 +9,7 @@ Package.json
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "CCC",
   "dependencies": {
     "@types/node": "^18.0.6",
     "discord.js": "^14.11.0",
