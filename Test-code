@@ -1,0 +1,5 @@
+let Gestures = [
+  { identifier: "1", value: S },
+  { identifier: "2", value: W },
+  { identifier: "3", value: D }
+];
