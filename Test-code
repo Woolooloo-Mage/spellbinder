@@ -1,5 +1,9 @@
-let Gestures = [
-  { identifier: "1", value: S },
-  { identifier: "2", value: W },
-  { identifier: "3", value: D }
+let gestures = [
+  { turn: "1", value: S },
+  { turn: "2", value: W },
+  { turn: "3", value: D }
 ];
+
+let gesture = { turn: "Turn", value: W };
+gestures.push(gesture); 
+let "Turn" = 1;
