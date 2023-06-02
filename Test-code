@@ -1,7 +1,4 @@
-let gestures = [
-  { turn: "1", value: S },
-  { turn: "2", value: W },
-  { turn: "3", value: D }
+let gestures = [ { turn: "Turn", value: W }
 ];
 
 let gesture = { turn: "Turn", value: W };
