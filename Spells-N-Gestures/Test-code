@@ -1,6 +1,8 @@
-let gestures = [ { turn: "0", value: n }
+let gestures_LH = [ { turn: "0", value: n }
 ];
 
-let gesture = { turn: "Turn", value: W };
-gestures.push(gesture); 
-let "Turn" = 1;
+let gesture = { turn: "Turn", value: "Current_turn" };
+gestures_LH.push(gesture); 
+
+let "Turn" = 0;
+let "Current_turn" = n
