@@ -5,4 +5,4 @@ let gesture = { turn: "Turn", value: "Current_turn" };
 gestures_LH.push(gesture); 
 
 let "Turn" = 0;
-let "Current_turn" = n
+let "Current_turn" = "Get-Ready!";
